@@ -1,0 +1,2 @@
+Looking for a Data Scientist skilled in Python, NLP, and machine learning.
+Experience with Scikit-learn, data wrangling, and deployment on Streamlit is a plus.

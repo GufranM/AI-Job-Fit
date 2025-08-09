@@ -1,0 +1,4 @@
+John Doe
+Data Scientist with 5 years of experience in ML, NLP, and data visualization.
+Skills: Python, Pandas, Scikit-learn, TensorFlow, SQL, Streamlit
+Experience: Built NLP-powered resume parser, sales forecasting models.
