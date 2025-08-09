@@ -3,5 +3,5 @@ fastapi
 uvicorn
 sentence-transformers
 scikit-learn
-pandas
+pandas==2.2.2
 textract
