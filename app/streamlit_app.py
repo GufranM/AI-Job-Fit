@@ -1,5 +1,5 @@
 import streamlit as st
-import nltk
+
 from nlp.parser import parse_resume
 from nlp.featurizer import featurize_texts
 from nlp.matcher import match_resume_to_job
